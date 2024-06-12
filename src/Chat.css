@@ -83,8 +83,11 @@
     outline-width: 0;
 }
 
-.chat__footer > form > button{
-    display: none;
+.sendIcon{
+    padding: 10px;
+    color: green;
+    outline-width: 0;
+    outline: none;
 }
 
 .chat__footer > .MuiSvgIcon-root{
